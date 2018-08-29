@@ -259,4 +259,15 @@ h6, .h6 {
     margin-bottom: 0;
 }
 
+li {
+    font-size: 13px;
+    padding: 4px;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    margin: 0px;
+}
+
+li:hover {
+    border: 2px solid #73AD21;
+}
 

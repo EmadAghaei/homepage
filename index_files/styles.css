@@ -136,7 +136,10 @@ h6, .h6 {
     font-size: 16px;
     color: #3a3a3a;
 }
-
+.bio {
+    font-size: 18px;
+    color: #3a3a3a;
+}
 
 
 /*
@@ -259,7 +262,7 @@ h6, .h6 {
     margin-bottom: 0;
 }
 
-.news-list {
+li {
     font-size: 13px;
     padding: 4px;
     border-radius: 8px;
@@ -267,7 +270,7 @@ h6, .h6 {
     margin: 0px;
 }
 
-.news-list:hover {
+li:hover {
     border: 2px solid #73AD21;
 }
 

@@ -274,3 +274,6 @@ li:hover {
     border: 2px solid #73AD21;
 }
 
+.img-circle {
+    border-radius: 50%;
+}

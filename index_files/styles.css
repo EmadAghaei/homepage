@@ -189,6 +189,9 @@ h6, .h6 {
 }
 
 /* Sidebar modules for boxing content */
+.profile-side{
+    font-size: 12px;
+}
 .sidebar-module {
     padding: 0px;
     margin: 0 0px 0px;

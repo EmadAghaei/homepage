@@ -129,16 +129,16 @@ h6, .h6 {
 }
 .blog-description {
     font-size: 14px;
-    color: #3a3a3a;
+    color: #000000;
 }
 
 .research-area {
     font-size: 16px;
-    color: #3a3a3a;
+    color: #000000;
 }
 .bio {
-    font-size: 18px;
-    color: #3a3a3a;
+    font-size: 14px;
+    color: #000000;
 }
 
 
@@ -184,18 +184,18 @@ h6, .h6 {
  */
 
 .blog-main {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.5;
 }
 
 /* Sidebar modules for boxing content */
 .profile-side{
-    font-size: 12px;
+    font-size: 14px;
 }
 .sidebar-module {
     padding: 0px;
     margin: 0 0px 0px;
-    font-size: 12px;
+    font-size: 14px;
 }
 .sidebar-module-inset {
     padding: 15px;
@@ -241,6 +241,7 @@ h6, .h6 {
 
 
 .research-section {
+    font-size: 14px;
     background-color: white;
     border: 2px solid white;
 }
@@ -266,17 +267,37 @@ h6, .h6 {
 }
 
 li {
-    font-size: 13px;
+    font-size: 14px;
     padding: 4px;
     border-radius: 8px;
     border: 2px solid #fff;
     margin: 0px;
 }
 
-li:hover {
-    border: 2px solid #73AD21;
-}
+/*li:hover {*/
+    /*border: 2px solid #73AD21;*/
+/*}*/
 
 .img-circle {
     border-radius: 50%;
+}
+
+/* unvisited link */
+a:link {
+    color: #0148ff;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: #148830;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 }

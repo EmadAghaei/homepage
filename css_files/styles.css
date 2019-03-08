@@ -299,5 +299,5 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: blue;
+    color: #008fff;
 }

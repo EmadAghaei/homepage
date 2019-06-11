@@ -2,57 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV2.pdf" afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV2.pdf" />
+      <change afterPath="$PROJECT_DIR$/papers/EaghayiEmperical2019.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="654006812">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="262" column="61" lean-forward="false" selection-start-line="262" selection-start-column="61" selection-end-line="262" selection-end-column="61" />
-              <folding />
+            <state relative-caret-position="465">
+              <caret line="265" column="98" lean-forward="true" selection-start-line="265" selection-start-column="98" selection-end-line="265" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="papers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/papers/papers.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/papers/Paper_files/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="56" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="59" selection-end-column="56" />
-              <folding />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phrase.rnc" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="885">
-              <caret line="59" column="14" lean-forward="false" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
-              <folding />
+              <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saved_resource.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css_files/saved_resource.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="975">
-              <caret line="65" column="111" lean-forward="false" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
+              <caret line="65" column="111" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -60,62 +89,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saved_resource copy.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css_files/saved_resource copy.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
-              <caret line="37" column="100" lean-forward="false" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="100" />
-              <folding />
+              <caret line="37" column="100" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="100" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saved_resource(1).html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css_files/saved_resource(1).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="CV.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/CV.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-              <folding />
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css_files/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4365">
-              <caret line="291" column="18" lean-forward="false" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="18" />
-              <folding />
+              <caret line="291" column="18" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="bio.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bio/bio.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -206,22 +221,11 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
+    <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="NBKnowledgePane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -244,6 +248,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,16 +261,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/index_files" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resume" />
       <recent name="$PROJECT_DIR$/papers" />
+      <recent name="$PROJECT_DIR$/resume" />
       <recent name="$PROJECT_DIR$/bio" />
       <recent name="$PROJECT_DIR$/index_files" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/index_files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,9 +284,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -318,7 +320,8 @@
       <workItem from="1552070711750" duration="1422000" />
       <workItem from="1552238130499" duration="139000" />
       <workItem from="1552328584698" duration="539000" />
-      <workItem from="1552331231931" duration="257000" />
+      <workItem from="1552331231931" duration="290000" />
+      <workItem from="1560292809039" duration="515000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -327,35 +330,41 @@
       <option name="project" value="LOCAL" />
       <updated>1552071712882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add video demo link">
+      <created>1552360006542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552360006542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39613000" />
+    <option name="totallyTimeSpent" value="40161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28606358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20754717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32825205" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Notes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33643773" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.33643773" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.20689656" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32825205" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Notes" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,232 +375,43 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add TSE 2019 paper" />
-    <option name="LAST_COMMIT_MESSAGE" value="add TSE 2019 paper" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <MESSAGE value="add video demo link" />
+    <option name="LAST_COMMIT_MESSAGE" value="add video demo link" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="4" column="106999" lean-forward="false" selection-start-line="4" selection-start-column="106999" selection-end-line="4" selection-end-column="106999" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/CV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="72" lean-forward="false" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3615">
-          <caret line="241" column="1" lean-forward="false" selection-start-line="241" selection-start-column="1" selection-end-line="241" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/Emad_headshot.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/researchgate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="4" column="106999" lean-forward="false" selection-start-line="4" selection-start-column="106999" selection-end-line="4" selection-end-column="106999" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/CV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="72" lean-forward="false" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/Emad_headshot.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3615">
-          <caret line="241" column="1" lean-forward="false" selection-start-line="241" selection-start-column="1" selection-end-line="241" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/researchgate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="4" column="106999" lean-forward="false" selection-start-line="4" selection-start-column="106999" selection-end-line="4" selection-end-column="106999" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3615">
-          <caret line="241" column="1" lean-forward="false" selection-start-line="241" selection-start-column="1" selection-end-line="241" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/CV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="72" lean-forward="false" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/Emad_headshot.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/researchgate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/CV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="72" lean-forward="false" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3930">
-          <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/researchgate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/Emad_headshot.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html" />
     <entry file="file://$PROJECT_DIR$/images/latoza headshot.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/github.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/researchgate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="956">
-          <caret line="261" column="12" lean-forward="false" selection-start-line="261" selection-start-column="12" selection-end-line="261" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/wban.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/experiment steps.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/Emad_headshot.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/CrowdMicroservices.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/CrowdCode qa.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css_files/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="n#!!doc" expanded="false" />
+            <element signature="n#!!doc" />
           </folding>
         </state>
       </provider>
@@ -599,66 +419,44 @@
     <entry file="file://$PROJECT_DIR$/css_files/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="4" column="19087" lean-forward="false" selection-start-line="4" selection-start-column="19087" selection-end-line="4" selection-end-column="19087" />
+          <caret line="4" column="19087" selection-start-line="4" selection-start-column="19087" selection-end-line="4" selection-end-column="19087" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_files/analytics.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/CrowdCode small.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
-          <caret line="87" column="16" lean-forward="false" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
-          <folding />
+          <caret line="87" column="16" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_files/css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/papers/papers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="885">
+          <caret line="59" column="56" selection-start-line="58" selection-start-column="27" selection-end-line="59" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bio/bio.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/saved_resource(1).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="885">
+          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_files/saved_resource.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
-          <caret line="65" column="111" lean-forward="false" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
+          <caret line="65" column="111" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -668,48 +466,50 @@
     <entry file="file://$PROJECT_DIR$/css_files/saved_resource copy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="37" column="100" lean-forward="false" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="100" />
-          <folding />
+          <caret line="37" column="100" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="100" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+    <entry file="file://$PROJECT_DIR$/css_files/saved_resource(1).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/CV.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="14" lean-forward="false" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="495">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_files/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4365">
-          <caret line="291" column="18" lean-forward="false" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="18" />
-          <folding />
+          <caret line="291" column="18" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/papers/papers.html">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bio/bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="56" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="59" selection-end-column="56" />
-          <folding />
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/CV.html">
+    <entry file="file://$PROJECT_DIR$/papers/Paper_files/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="262" column="61" lean-forward="false" selection-start-line="262" selection-start-column="61" selection-end-line="262" selection-end-column="61" />
-          <folding />
+        <state relative-caret-position="465">
+          <caret line="265" column="98" lean-forward="true" selection-start-line="265" selection-start-column="98" selection-end-line="265" selection-end-column="98" />
         </state>
       </provider>
     </entry>

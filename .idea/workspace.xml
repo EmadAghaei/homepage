@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="Add Dr Saghafi paper">
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="Add hackathon news">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -17,52 +17,6 @@
         <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>header</find>
-      <find>latoza</find>
-      <find>ndex_files</find>
-      <find>ol</find>
-      <find>google</find>
-      <find>font</find>
-      <find>blog</find>
-      <find>hea</find>
-      <find>rounded-circle</find>
-      <find>heads</find>
-      <find>list-unstyled</find>
-      <find>news</find>
-      <find>news-list</find>
-      <find>side</find>
-      <find>hover</find>
-      <find>&lt;u&gt;</find>
-      <find>font-size</find>
-      <find>3a3a3a</find>
-      <find>&lt;/u&gt;</find>
-      <find>css_files</find>
-      <find>12</find>
-      <find>favi</find>
-      <find>bio</find>
-      <find>index_</find>
-      <find>index_files</find>
-      <find>twi</find>
-      <find>ThomasLaToza</find>
-      <find>latoz</find>
-      <find>greate</find>
-      <find>load new t</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>eaghayi@gmu.edu</replace>
-      <replace>http://mason.gmu.edu/~eaghayi/</replace>
-      <replace>000000</replace>
-      <replace />
-      <replace>images</replace>
-      <replace>14</replace>
-      <replace>css_files</replace>
-      <replace>@EmadAghayi</replace>
-      <replace>Emad Aghayi</replace>
-      <replace>EmadAghayi</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,7 +103,10 @@
       <workItem from="1565916111383" duration="2102000" />
       <workItem from="1567124780965" duration="373000" />
       <workItem from="1571854009487" duration="188000" />
-      <workItem from="1571854497538" duration="1274000" />
+      <workItem from="1571854497538" duration="1506000" />
+      <workItem from="1571861594815" duration="282000" />
+      <workItem from="1571925977395" duration="152000" />
+      <workItem from="1572290574582" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -186,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567125307327</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add hackathon news">
+      <created>1571860335791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571860335794</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +173,7 @@
     <MESSAGE value="add TSE 2019 paper" />
     <MESSAGE value="add video demo link" />
     <MESSAGE value="Add Dr Saghafi paper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Dr Saghafi paper" />
+    <MESSAGE value="Add hackathon news" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hackathon news" />
   </component>
 </project>

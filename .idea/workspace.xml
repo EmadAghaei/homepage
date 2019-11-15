@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="Add hackathon news">
+      <change afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV_research.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/resume.cls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/CV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV2.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resume" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,8 +44,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/resume" />
+      <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/bio" />
       <recent name="$PROJECT_DIR$/index_files" />
       <recent name="$PROJECT_DIR$" />
@@ -107,6 +111,8 @@
       <workItem from="1571861594815" duration="282000" />
       <workItem from="1571925977395" duration="152000" />
       <workItem from="1572290574582" duration="309000" />
+      <workItem from="1573840081796" duration="84000" />
+      <workItem from="1573840180843" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>

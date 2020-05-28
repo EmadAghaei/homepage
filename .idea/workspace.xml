@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="Add hackathon news">
-      <change afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV_research.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/resume.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/FUU2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/gc_MP_vlhcc.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/CV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bio/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bio/bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +26,19 @@
   </component>
   <component name="ProjectId" id="1ScDU9MeXbSH8cTmU18aZOObwro" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,29 +50,18 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/styles.css" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/papers" />
+      <recent name="$PROJECT_DIR$/index_files" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/resume" />
       <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/bio" />
       <recent name="$PROJECT_DIR$/index_files" />
-      <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/index_files" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -114,6 +109,7 @@
       <workItem from="1572290574582" duration="309000" />
       <workItem from="1573840081796" duration="84000" />
       <workItem from="1573840180843" duration="682000" />
+      <workItem from="1590701826644" duration="6063000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -161,20 +157,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add TSE 2019 paper" />
@@ -182,5 +177,15 @@
     <MESSAGE value="Add Dr Saghafi paper" />
     <MESSAGE value="Add hackathon news" />
     <option name="LAST_COMMIT_MESSAGE" value="Add hackathon news" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1933" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590708211543">
+      <screen x="1280" y="-130" width="1920" height="1080" />
+    </state>
+    <state x="1933" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1590708211543" />
+    <state x="1983" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590702419593">
+      <screen x="1280" y="-130" width="1920" height="1080" />
+    </state>
+    <state x="1983" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1590702419593" />
   </component>
 </project>

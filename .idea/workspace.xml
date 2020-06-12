@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update navbar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bio/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bio/bio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_files/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/CrowdCode addCall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/CrowdCode qa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/CrowdCode small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/IEEEComp16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/analytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/architectural decisions study.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/borrowing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/bowlingGameBarchart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/calicoCanvas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/codeexchange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/crowd development.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/crowd vision.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/crowdsourcing models.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/csd14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/experiment steps.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/factgraph.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/graphite2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/hard to answer questions.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/jquery-2.1.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/juxtapose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/latoza dissertation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/object structure.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/reachabilityQuestion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/reacher2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/selfReportedTime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/software17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/strategies.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/students using Calico.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Paper_files/useful tools for developers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/CV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/Emad_Aghayi_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Emad_Aghayi_CV_disabled.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update navbar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +106,7 @@
       <workItem from="1590710362848" duration="681000" />
       <workItem from="1591330705105" duration="2901000" />
       <workItem from="1591335750368" duration="263000" />
-      <workItem from="1591897762501" duration="4008000" />
+      <workItem from="1591897762501" duration="4331000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -204,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591334674262</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update navbar">
+      <created>1591922404935</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591922404935</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

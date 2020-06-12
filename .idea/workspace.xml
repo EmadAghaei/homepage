@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update navbar" />
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update navbar">
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1590710362848" duration="681000" />
       <workItem from="1591330705105" duration="2901000" />
       <workItem from="1591335750368" duration="263000" />
-      <workItem from="1591897762501" duration="4331000" />
+      <workItem from="1591897762501" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591922404935</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update navbar">
+      <created>1591922523919</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591922523919</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,16 +212,16 @@
       <screen x="1280" y="-130" width="1920" height="1080" />
     </state>
     <state x="1933" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1590708211543" />
-    <state x="431" y="98" key="CommitChangelistDialog2" timestamp="1591334673180">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="1772" y="-51" key="CommitChangelistDialog2" timestamp="1591922523784">
+      <screen x="1280" y="-130" width="1920" height="1080" />
     </state>
     <state x="431" y="98" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1591334673180" />
-    <state x="1772" y="-51" key="CommitChangelistDialog2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1590709085509" />
-    <state x="424" y="255" key="Vcs.Push.Dialog.v2" timestamp="1591334683063">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="1772" y="-51" key="CommitChangelistDialog2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1591922523784" />
+    <state x="1765" y="114" key="Vcs.Push.Dialog.v2" timestamp="1591922536050">
+      <screen x="1280" y="-130" width="1920" height="1080" />
     </state>
     <state x="424" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591334683063" />
-    <state x="1765" y="114" key="Vcs.Push.Dialog.v2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1590710379296" />
+    <state x="1765" y="114" key="Vcs.Push.Dialog.v2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1591922536050" />
     <state x="1983" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590702419593">
       <screen x="1280" y="-130" width="1920" height="1080" />
     </state>

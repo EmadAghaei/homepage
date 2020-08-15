@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="add twitter&#10;change social media icons&#10;add into in index.html&#10;add space to media&#10;update FUU image">
-      <change afterPath="$PROJECT_DIR$/papers/FUU.pdf" afterDir="false" />
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update menue">
+      <change afterPath="$PROJECT_DIR$/indexnew.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexold.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bio/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bio/bio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_files/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/FUU3 copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/FUU3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/FUU3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index copy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +42,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/slides" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -124,7 +120,8 @@
       <workItem from="1591335750368" duration="263000" />
       <workItem from="1591897762501" duration="4661000" />
       <workItem from="1597446620769" duration="3811000" />
-      <workItem from="1597504753691" duration="12784000" />
+      <workItem from="1597504753691" duration="13096000" />
+      <workItem from="1597524629104" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -203,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597450476569</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update bio&#10;update css&#10;update fuu image&#10;add paper page&#10;update index.html">
+      <created>1597518692456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597518692456</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update menue">
+      <created>1597518930850</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597518930850</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,28 +241,30 @@
     <MESSAGE value="update index.html and bio.html. &#10;add cabin font&#10;add FUU project&#10;update font sizes&#10;update justify texts" />
     <MESSAGE value="update navbar" />
     <MESSAGE value="add twitter&#10;change social media icons&#10;add into in index.html&#10;add space to media&#10;update FUU image" />
-    <option name="LAST_COMMIT_MESSAGE" value="add twitter&#10;change social media icons&#10;add into in index.html&#10;add space to media&#10;update FUU image" />
+    <MESSAGE value="update bio&#10;update css&#10;update fuu image&#10;add paper page&#10;update index.html" />
+    <MESSAGE value="update menue" />
+    <option name="LAST_COMMIT_MESSAGE" value="update menue" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1933" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590708211543">
       <screen x="1280" y="-130" width="1920" height="1080" />
     </state>
     <state x="1933" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1590708211543" />
-    <state x="492" y="100" key="CommitChangelistDialog2" timestamp="1597450475928">
+    <state x="492" y="100" key="CommitChangelistDialog2" timestamp="1597518930747">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="431" y="98" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1591334673180" />
-    <state x="492" y="100" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1597450475928" />
+    <state x="492" y="100" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1597518930747" />
     <state x="1772" y="-51" key="CommitChangelistDialog2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1591922523784" />
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose" timestamp="1597450482429">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose/0.23.1920.1057@0.23.1920.1057" timestamp="1597450482429" />
-    <state x="485" y="262" key="Vcs.Push.Dialog.v2" timestamp="1597450603115">
+    <state x="485" y="262" key="Vcs.Push.Dialog.v2" timestamp="1597518940624">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="424" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591334683063" />
-    <state x="485" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1597450603115" />
+    <state x="485" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1597518940624" />
     <state x="1765" y="114" key="Vcs.Push.Dialog.v2/1280.-130.1920.1080/0.23.1280.777@1280.-130.1920.1080" timestamp="1591922536050" />
     <state x="1983" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590702419593">
       <screen x="1280" y="-130" width="1920" height="1080" />

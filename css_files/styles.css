@@ -301,12 +301,12 @@ li {
 
 /* unvisited link */
 a:link {
-    color: #0148ff;
+    color: #0000ee;
 }
 
 /* visited link */
 a:visited {
-    color: #0041ff;
+    color:  #551A8B;
 }
 
 /* mouse over link */
@@ -321,4 +321,7 @@ a:active {
 .button{
 
     font-size: 16px;
+}
+.custom-media{
+    padding-bottom: 15px;
 }

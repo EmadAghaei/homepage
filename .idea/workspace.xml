@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="remove bio page&#10;recover old index.html" />
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="remove bio page&#10;recover old index.html">
+      <change afterPath="$PROJECT_DIR$/resume/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +50,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/styles.css" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -117,6 +121,8 @@
       <workItem from="1597446620769" duration="3811000" />
       <workItem from="1597504753691" duration="13096000" />
       <workItem from="1597524629104" duration="657000" />
+      <workItem from="1604264468779" duration="193000" />
+      <workItem from="1604359022199" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>

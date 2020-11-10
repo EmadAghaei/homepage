@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="add cv markdown">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/CM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Implement_task2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/members.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Emad personal page.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Emad personal page.iml" afterDir="false" />
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update papers.html&#10;update index copy.html">
+      <change afterPath="$PROJECT_DIR$/index_old.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/index copy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +127,7 @@
       <workItem from="1597524629104" duration="657000" />
       <workItem from="1604264468779" duration="193000" />
       <workItem from="1604359022199" duration="941000" />
-      <workItem from="1605042079488" duration="7318000" />
+      <workItem from="1605042079488" duration="8236000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -239,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604360420544</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update papers.html&#10;update index copy.html">
+      <created>1605050760341</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605050760341</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,22 +272,25 @@
     <MESSAGE value="update menue" />
     <MESSAGE value="remove bio page&#10;recover old index.html" />
     <MESSAGE value="add cv markdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cv markdown" />
+    <MESSAGE value="update papers.html&#10;update index copy.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="update papers.html&#10;update index copy.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605043412754">
+    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605050760074">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1605043412754" />
+    <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605050760074" />
     <state x="492" y="100" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1597525323165" />
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose" timestamp="1597450482429">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose/0.23.1920.1057@0.23.1920.1057" timestamp="1597450482429" />
-    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1604360422867">
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605050766381">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1604360422867" />
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605050766381" />
     <state x="485" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1597525328294" />
   </component>
 </project>

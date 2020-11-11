@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update index.html">
+      <change afterPath="$PROJECT_DIR$/bib/CrowdMicroservices.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bib/FSE20.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bib/VLHCC20_FUU.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bib/VLHCC_GC20.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/CrowdsourceingVsMPO.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/papers/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers/papers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,17 +61,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/slides" />
-      <recent name="$PROJECT_DIR$/css_files" />
-      <recent name="$PROJECT_DIR$/resume" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/index_files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bib" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/slides" />
+      <recent name="$PROJECT_DIR$/css_files" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
@@ -125,7 +131,8 @@
       <workItem from="1597524629104" duration="657000" />
       <workItem from="1604264468779" duration="193000" />
       <workItem from="1604359022199" duration="941000" />
-      <workItem from="1605042079488" duration="9807000" />
+      <workItem from="1605042079488" duration="9895000" />
+      <workItem from="1605113035429" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -253,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605053075074</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update index.html">
+      <created>1605054329651</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605054329651</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,21 +304,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="update index.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605053074973">
+    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605054329533">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1605043412754" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053074973" />
+    <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054329533" />
     <state x="492" y="100" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1597525323165" />
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose" timestamp="1597450482429">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose/0.23.1920.1057@0.23.1920.1057" timestamp="1597450482429" />
-    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605053076540">
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605054331159">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1604360422867" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053076540" />
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054331159" />
     <state x="485" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1597525328294" />
   </component>
 </project>

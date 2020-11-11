@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="Update papers.html&#10;add bib files">
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="Update papers.html&#10;Update index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
       <workItem from="1604359022199" duration="941000" />
       <workItem from="1605042079488" duration="9895000" />
       <workItem from="1605113035429" duration="2280000" />
-      <workItem from="1605116327539" duration="261000" />
+      <workItem from="1605116327539" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -270,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605115228518</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update papers.html&#10;Update index.html">
+      <created>1605116679867</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605116679867</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,13 +311,14 @@
     <MESSAGE value="replace new index.html" />
     <MESSAGE value="update index.html" />
     <MESSAGE value="Update papers.html&#10;add bib files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update papers.html&#10;add bib files" />
+    <MESSAGE value="Update papers.html&#10;Update index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update papers.html&#10;Update index.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605115228287">
+    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605116679730">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
-    <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605115228287" />
+    <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605116679730" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1605043412754" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053074973" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054329533" />
@@ -320,10 +327,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="864" y="461" key="Github.Dialog.Accounts.Choose/0.23.1920.1057@0.23.1920.1057" timestamp="1597450482429" />
-    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605115230959">
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605116682704">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
-    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605115230959" />
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605116682704" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1604360422867" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053076540" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054331159" />

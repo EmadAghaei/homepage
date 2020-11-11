@@ -25,7 +25,7 @@ a {
 
 p {
     font-size: 16px;
-    color: black;
+    color: #474747;
     padding: 4px;
     border-radius: 8px;
     border: 1px solid #fff;
@@ -143,14 +143,14 @@ h6, .h6 {
     text-align: justify;
     text-justify: auto;
     font-size: 16px;
-    color: black;
+    color: #474747;
     border-radius: 8px;
 }
 .news {
     text-align: justify;
     text-justify: auto;
     font-size: 16px;
-    color: black;
+    color: #474747;
     border-radius: 8px;
 }
 
@@ -158,7 +158,7 @@ h6, .h6 {
     text-align: justify;
     text-justify: auto;
     font-size: 16px;
-    color: black;
+    color: #474747;
     border-radius: 8px;
 }
 .research-area:hover {
@@ -169,7 +169,7 @@ h6, .h6 {
 .bio {
     border-radius: 8px;
     font-size: 16px;
-    color: black;
+    color: #474747;
 }
 
 
@@ -191,6 +191,7 @@ h6, .h6 {
     text-align: justify;
     text-justify: auto;
     margin-bottom: 3px;
+    color: #474747;
 }
 
 .paper-img-cell {
@@ -226,7 +227,7 @@ h6, .h6 {
 /* Sidebar modules for boxing content */
 .profile-side{
     font-size: 16px;
-    color: black;
+    color: #474747;
 }
 .sidebar-module {
     padding: 0px;
@@ -287,6 +288,7 @@ h6, .h6 {
 .research-section:hover {
     border: 1px solid green;
     padding: 5px;
+    color: #474747;
 }
 
 
@@ -311,7 +313,7 @@ li {
     border-radius: 8px;
     border: 1px solid white;
     margin: 0px;
-    color: black;
+    color: #474747;
 }
 
 /*li:hover {*/
@@ -346,10 +348,11 @@ a:active {
 }
 .custom-media{
     padding-bottom: 15px;
+    color: #474747;
 }
 .affiliation {
     font-size: 14px;
-    color: black;
+    color: #474747;
     text-align: left;
 }
 

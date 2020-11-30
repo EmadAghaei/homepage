@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update styles.css">
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,17 +57,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bib" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/slides" />
+      <recent name="$PROJECT_DIR$/css_files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/index_files" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bib" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/slides" />
-      <recent name="$PROJECT_DIR$/css_files" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
@@ -129,6 +131,8 @@
       <workItem from="1605113035429" duration="2280000" />
       <workItem from="1605116327539" duration="1029000" />
       <workItem from="1605144865661" duration="2235000" />
+      <workItem from="1605150770517" duration="26000" />
+      <workItem from="1606699607973" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -284,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605117417583</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update styles.css">
+      <created>1605150783185</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605150783185</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,25 +335,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="update styles.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605117417484">
+    <state x="-1428" y="-144" key="CommitChangelistDialog2" timestamp="1605150782990">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605117417484" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1605043412754" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053074973" />
+    <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1627.1027@-1920.-223.1920.1080" timestamp="1605150782990" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054329533" />
-    <state x="492" y="100" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1597525323165" />
-    <state x="864" y="461" key="Github.Dialog.Accounts.Choose" timestamp="1597450482429">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="864" y="461" key="Github.Dialog.Accounts.Choose/0.23.1920.1057@0.23.1920.1057" timestamp="1597450482429" />
-    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605117419268">
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2" timestamp="1605150785331">
       <screen x="-1920" y="-223" width="1920" height="1080" />
     </state>
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605117419268" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1620.1027@-1920.-223.1920.1080" timestamp="1604360422867" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053076540" />
+    <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1627.1027@-1920.-223.1920.1080" timestamp="1605150785331" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054331159" />
-    <state x="485" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1597525328294" />
+    <state x="2511" y="93" width="670" height="676" key="search.everywhere.popup" timestamp="1606700110297">
+      <screen x="1680" y="-222" width="1853" height="1080" />
+    </state>
+    <state x="2511" y="93" width="670" height="676" key="search.everywhere.popup/1680.-222.1853.1080/0.23.1680.1027@1680.-222.1853.1080" timestamp="1606700110297" />
   </component>
 </project>

@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update styles.css">
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="comment widgets.js&#10;comment some css in index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_files/widgets.js" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/widgets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/jquery-2.1.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/jquery-2.1.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_files/widget_iframe.1025be460f33762a866ea882e1687ff4.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_files/widget_iframe.1025be460f33762a866ea882e1687ff4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +145,8 @@
       <workItem from="1605116327539" duration="1029000" />
       <workItem from="1605144865661" duration="2235000" />
       <workItem from="1605150770517" duration="26000" />
-      <workItem from="1606699607973" duration="1887000" />
+      <workItem from="1606699607973" duration="2074000" />
+      <workItem from="1607449154715" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -301,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606700906630</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="comment widgets.js&#10;comment some css in index.html">
+      <created>1606702104552</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606702104552</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,10 +360,11 @@
     <MESSAGE value="Update papers.html&#10;add bib files" />
     <MESSAGE value="Update papers.html&#10;Update index.html" />
     <MESSAGE value="update styles.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="update styles.css" />
+    <MESSAGE value="comment widgets.js&#10;comment some css in index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment widgets.js&#10;comment some css in index.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2155" y="-143" key="CommitChangelistDialog2" timestamp="1606700906452">
+    <state x="2155" y="-143" key="CommitChangelistDialog2" timestamp="1606702104414">
       <screen x="1680" y="-222" width="1853" height="1080" />
     </state>
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605117417484" />
@@ -349,8 +372,8 @@
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053074973" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1627.1027@-1920.-223.1920.1080" timestamp="1605150782990" />
     <state x="-1428" y="-144" key="CommitChangelistDialog2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054329533" />
-    <state x="2155" y="-143" key="CommitChangelistDialog2/1680.-222.1853.1080/0.23.1680.1027@1680.-222.1853.1080" timestamp="1606700906452" />
-    <state x="2148" y="22" key="Vcs.Push.Dialog.v2" timestamp="1606701202737">
+    <state x="2155" y="-143" key="CommitChangelistDialog2/1680.-222.1853.1080/0.23.1680.1027@1680.-222.1853.1080" timestamp="1606702104414" />
+    <state x="2148" y="22" key="Vcs.Push.Dialog.v2" timestamp="1606702115968">
       <screen x="1680" y="-222" width="1853" height="1080" />
     </state>
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1615.1027@-1920.-223.1920.1080" timestamp="1605117419268" />
@@ -358,7 +381,7 @@
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1625.1027@-1920.-223.1920.1080" timestamp="1605053076540" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1627.1027@-1920.-223.1920.1080" timestamp="1605150785331" />
     <state x="-1435" y="21" key="Vcs.Push.Dialog.v2/-1920.-223.1920.1080/0.23.1629.1027@-1920.-223.1920.1080" timestamp="1605054331159" />
-    <state x="2148" y="22" key="Vcs.Push.Dialog.v2/1680.-222.1853.1080/0.23.1680.1027@1680.-222.1853.1080" timestamp="1606701202737" />
+    <state x="2148" y="22" key="Vcs.Push.Dialog.v2/1680.-222.1853.1080/0.23.1680.1027@1680.-222.1853.1080" timestamp="1606702115968" />
     <state x="2511" y="93" width="670" height="676" key="search.everywhere.popup" timestamp="1606700110297">
       <screen x="1680" y="-222" width="1853" height="1080" />
     </state>

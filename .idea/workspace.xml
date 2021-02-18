@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="update CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/cv.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,7 @@
       <workItem from="1605150770517" duration="26000" />
       <workItem from="1606699607973" duration="2074000" />
       <workItem from="1607449154715" duration="1424000" />
-      <workItem from="1613684322014" duration="5169000" />
+      <workItem from="1613684322014" duration="6242000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -364,7 +365,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613689050976</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="update CV">
+      <created>1613690051040</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1613690051040</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update CV">
+      <created>1613692357868</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1613692357868</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,8 +419,8 @@
     <MESSAGE value="comment widgets.js&#10;comment some css in index.html" />
     <MESSAGE value="Comments files in css_files&#10;comment widgets.js&#10;comment some css in index.html" />
     <MESSAGE value="remove commented statements&#10;remove redundant files" />
-    <MESSAGE value="update CV" />
     <MESSAGE value="add refresh tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="add refresh tag" />
+    <MESSAGE value="update CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="update CV" />
   </component>
 </project>

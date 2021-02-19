@@ -40,17 +40,23 @@ p:hover {
 
 h1, .h1,
 h2, .h2,
-h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
     font-size: 20px;
-
     font-weight: bold;
-    color: #333; /*  #006633;  /* #333; */
+    color: #555; /*  #006633;  /* #333; */
     padding: 4px;
     border-radius: 8px;
     border: 1px solid white;
+    margin: 0px;
+}
+h3{
+    font-size: 20px;
+    color: #474747;
+    padding: 4px;
+    border-radius: 8px;
+    border: 1px solid #fff;
     margin: 0px;
 }
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="add CV">
+    <list default="true" id="8daeb3ca-9e4f-40b4-8c5f-9d4d9e621583" name="Default" comment="add ISPJ award">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -148,7 +148,8 @@
       <workItem from="1607449154715" duration="1424000" />
       <workItem from="1613684322014" duration="6503000" />
       <workItem from="1613757011459" duration="3133000" />
-      <workItem from="1615914596728" duration="620000" />
+      <workItem from="1615914596728" duration="1066000" />
+      <workItem from="1616773750308" duration="401000" />
     </task>
     <task id="LOCAL-00001" summary="add TSE 2019 paper">
       <created>1552071712882</created>
@@ -416,7 +417,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615914876458</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add ISPJ award">
+      <created>1615915323223</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1615915323223</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add ISPJ award">
+      <created>1615915489638</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1615915489638</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +475,7 @@
     <MESSAGE value="update CV" />
     <MESSAGE value="update h3 css" />
     <MESSAGE value="add CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CV" />
+    <MESSAGE value="add ISPJ award" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ISPJ award" />
   </component>
 </project>
